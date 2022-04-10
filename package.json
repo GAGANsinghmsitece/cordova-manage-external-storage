@@ -1,0 +1,17 @@
+{
+  "name": "cordova.manage.external.storage",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova.manage.external.storage",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Gagan Singh",
+  "license": "ISC"
+}
