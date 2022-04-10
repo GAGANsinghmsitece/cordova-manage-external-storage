@@ -5,7 +5,14 @@ This plugin request `MANAGE_EXTERNAL_STORAGE` on android devices with API 30+. T
 ## Installation
 The plugin can be installed by following command:-
 
-`cordova plugin add https://github.com/GAGANsinghmsitece/cordova-manage-external-storage`
+```
+cordova plugin add https://github.com/GAGANsinghmsitece/cordova-manage-external-storage
+```
+
+or you can install it via npm:-\
+```
+npm i cordova.manage.external.storage
+```
 
 After installing the files you need to declare the permissions in `AndroidManifest.xml`
 ```xml
